@@ -1,4 +1,4 @@
-version: "v1.0"
+apiversion: "v1.0"
 kind: Pod
 metadata:
   name: my-pod
